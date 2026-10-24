@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IndieForge</string>
+    <string name="workspace_subtitle">Indie Game Design &amp; GDD Studio</string>
+    <string name="autosave_saving">Saving locally…</string>
+    <string name="autosave_saved">Saved locally</string>
+    <string name="export_gdd">Export GDD</string>
+    <string name="ai_copilot">Forge Co-Pilot</string>
+    <string name="new_project">New Game Project</string>
+    <string name="nav_dashboard">Overview</string>
+    <string name="nav_gdd">GDD Builder</string>
+    <string name="nav_codex">World Codex</string>
+    <string name="nav_quests">Quests</string>
+    <string name="nav_backlog">Backlog</string>
+    <string name="nav_narrative">Dialogue &amp; Items</string>
+</resources>
